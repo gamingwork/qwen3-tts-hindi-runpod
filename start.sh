@@ -23,4 +23,4 @@ print("Model cache ready.")
 PYEOF
 
 echo "Launching Gradio app on port 7860..."
-python scripts/radio_app.py --model Qwen/Qwen3-TTS-12Hz-1.7B-Base --port 7860 --host 0.0.0.0
+python scripts/radio_app.py --model Qwen/Qwen3-TTS-12Hz-1.7B-Base --port 7860
